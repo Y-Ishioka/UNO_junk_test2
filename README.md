@@ -31,15 +31,15 @@ https://x.com/YI_Studio/status/1893488568930025907
 
 マトリクスLEDモジュールと接続するピンは以下の通り。
 
-SIN1          3
+SIN1 ： D3
 
-SIN2          4
+SIN2 ： D4
 
-SIN3          5
+SIN3 ： D5
 
-CLOCK         6
+CLOCK ： D6
 
-LATCH         7
+LATCH ： D7
 
 ◆免責
 
